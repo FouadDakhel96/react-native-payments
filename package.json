@@ -1,5 +1,6 @@
 {
   "version":"0.7.1",
+  "name":"react-native-payments",
   "scripts": {
     "precommit": "lint-staged"
   },
